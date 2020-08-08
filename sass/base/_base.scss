@@ -1,0 +1,34 @@
+#logoc {
+    display: block;
+    width: 10%;
+}
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color:  $colorblanco !important;
+    text-align: right;
+}
+#foto {
+   width: 100% !important;
+   
+    
+}
+
+#naomi {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    
+    
+}
+#thai {
+    padding: 3px;
+    border-color: $colornegro;
+    border-width: 1px;
+    border-style: solid;  
+}
+.oscuro {
+   
+    background-color: $colornegro;
+    padding: 20px;
+    
+}

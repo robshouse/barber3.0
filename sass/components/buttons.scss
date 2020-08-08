@@ -1,0 +1,26 @@
+.paginacion1 {
+    margin: 0px 0;
+    background-color: $color5;
+    padding: 3%;
+}
+
+.paginacion1 ul {
+    list-style: none;
+    text-align: center;
+}
+.paginacion1 ul li {
+        display: inline-block;
+        margin-right: 2px;
+}
+.paginacion1 ul li a {
+    display:block;
+    padding: 5px 10px;
+    color: $color6;
+}
+.paginacion1 ul li a:hover {
+background: $color6;
+}
+
+.logo{
+    border-radius: 80px;
+}

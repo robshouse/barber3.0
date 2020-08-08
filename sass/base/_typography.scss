@@ -1,0 +1,65 @@
+.navbar-nav {
+    font-size: 20px;
+    color: $color4;
+}
+.navbar-nav a:hover{
+    color: $color4 !important;
+}
+
+ p {
+    position: absolute;
+    font-family: $tipoletra1;
+    font-size: 70px;
+    top: 200px;
+    left: 600px;
+    width: 90%;
+    margin: 0 auto;
+    height: 50px;
+    color: $colorblanco;
+    
+}    
+p1 {
+    position: absolute;
+    font-family: $tipoletra1;
+    font-size: 70px;
+    top: 300px;
+    left: 600px;
+    width: 90%;
+    margin: 0 auto;
+    height: 50px;
+    color: $colorblanco;
+   
+}
+.centrar {
+    display: inline-block;
+}
+
+.col {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    line-height: 120%px
+}
+
+h3 h4 {
+    color: $colorblanco
+}
+.datos{
+    h4 {
+        color: $color4;
+        font-family: $tipoletra1;
+        white-space: unset;
+    }
+}
+.datos{
+    h3 {
+        
+        font-family: $tipoletra1;
+    }
+}
+
+
+p2 {
+    line-height: 120%px
+}
+    
+
